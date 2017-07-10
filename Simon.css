@@ -1,41 +1,45 @@
 body {
-  width: 410px;
+  padding-top:50px;
+  width: 310px;
   margin: auto;
 }
 
 .gameContainer {
   background-color: white;
-  width: 452px;
+  width: 352px;
   margin: auto;
   position: absolute;
 }
 
 .square {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   margin: 1px;
+  font-weight: bold;
+  font-size: 20px;
   border: 2px solid gray;
   display: block;
   float: left;
   text-align: center;
-  line-height: 200px;
+  line-height: 150px;
   color: black;
+  cursor:pointer;
 }
 
 #red {
-  border-radius: 100% 0 0 0;
+  border-radius: 100% 0 40% 0 ;
 }
 
 #blue {
-  border-radius: 0 100% 0 0;
+  border-radius: 0 100% 0 40%;
 }
 
 #green {
-  border-radius: 0 0 0 100%;
+  border-radius: 0 40% 0 100%;
 }
 
 #yellow {
-  border-radius: 0 0 100% 0;
+  border-radius: 40% 0 100% 0;
 }
 
 .blink {
@@ -43,35 +47,36 @@ body {
 }
 
 .s1 {
-  background-color:red;
+  background-color:#db3236;
 }
 
 .s2 {
-  background-color:blue;
+  background-color:#4885ed;
 }
 
 .s3 {
-  background-color:green;
+  background-color:#3cba54;
 }
 
 .s4 {
-  background-color:yellow;
+  background-color:#f4c20d;
 }
 
 .start {
   position:absolute;
-  left: 34%;
-  top: 38%;
+  left: 28%;
+  top: 30%;
 }
 
 .start button {
-  height: 150px;
-  width: 150px;
+  height: 120px;
+  width: 120px;
   border-radius: 100%;
+  font-size: 12px;
   border: 1px solid black;
   cursor: pointer;
   outline: none;
-  background-color: #A9A9A9
+  background-color: #A9A9A9;
 }
 
 .livebutton {
@@ -80,4 +85,8 @@ body {
 
 .start button:hover {
   background-color: #D3D3D3;
+}
+
+#lvl {
+  color: red;
 }
