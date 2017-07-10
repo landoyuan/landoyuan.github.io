@@ -1,0 +1,83 @@
+body {
+  width: 410px;
+  margin: auto;
+}
+
+.gameContainer {
+  background-color: white;
+  width: 452px;
+  margin: auto;
+  position: absolute;
+}
+
+.square {
+  width: 200px;
+  height: 200px;
+  margin: 1px;
+  border: 2px solid gray;
+  display: block;
+  float: left;
+  text-align: center;
+  line-height: 200px;
+  color: black;
+}
+
+#red {
+  border-radius: 100% 0 0 0;
+}
+
+#blue {
+  border-radius: 0 100% 0 0;
+}
+
+#green {
+  border-radius: 0 0 0 100%;
+}
+
+#yellow {
+  border-radius: 0 0 100% 0;
+}
+
+.blink {
+  animation: click 0.4s linear 1;
+}
+
+.s1 {
+  background-color:red;
+}
+
+.s2 {
+  background-color:blue;
+}
+
+.s3 {
+  background-color:green;
+}
+
+.s4 {
+  background-color:yellow;
+}
+
+.start {
+  position:absolute;
+  left: 34%;
+  top: 38%;
+}
+
+.start button {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+  border: 1px solid black;
+  cursor: pointer;
+  outline: none;
+  background-color: #A9A9A9
+}
+
+.livebutton {
+  cursor:pointer;
+}
+
+.start button:hover {
+  background-color: #D3D3D3;
+}
