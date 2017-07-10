@@ -17,6 +17,7 @@ function startGame(){
   humanMoves = [];
   cpuMoves = [];
   level = 0;
+  $('#lvl').text(level);
   setTimeout(function(){
     cpuMove();
   },50)
@@ -24,6 +25,7 @@ function startGame(){
 
 function cpuMove() {
   level++;
+  $('#lvl').text(level);
   randoMove = Math.floor(Math.random()*4+1);
   cpuMoves.push(randoMove);
   cpuMoves.forEach(function(value,index){
