@@ -1,0 +1,97 @@
+body {
+  margin:0 auto;
+  text-align: center;
+  font-family: Arvo;
+  background-color: #2F4F4F;
+  color: white;
+  width: 400px;
+}
+
+#title {
+  font-size: 25px;
+  font-family:'Berkshire Swash';
+  margin-top: 20px;
+}
+
+#numberTitle {
+  font-size: 40px;
+}
+
+.adjust {
+  display:inline-block;
+  margin:0px 20px;
+  font-size: 30px;
+}
+
+#numberPlayers {
+  font-size:40px;
+}
+
+button {
+  border: 0;
+  outline: 0;
+  background-color: #2F4F4F;
+  color:white;
+  cursor: pointer;
+}
+
+#next1 {
+  background-color: #2F4F4F;
+  border: white solid 1px;
+  border-radius: 1em;
+  font-size: 20px;
+  padding: 0.5em 1em;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  font-family: Arvo;
+}
+
+.choosenumber {
+  border: 1px dashed white;
+  border-radius: 2em;
+}
+
+.playerNames {
+  display:none;
+}
+
+form {
+  font-size: 20px;
+}
+
+form input {
+  margin: 10px;
+  font-size: 20px;
+}
+
+input[type=submit] {
+  background-color: #2F4F4F;
+  border: white solid 1px;
+  border-radius: 1em;
+  font-size: 20px;
+  padding: 0.5em 1em;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  font-family: Arvo;
+  color: white;
+}
+
+.clock {
+  height: 400px;
+  width: 400px;
+  border: 1px white dashed;
+  border-radius: 100%;
+  margin: 40px auto;
+  cursor: pointer;
+  display:none;
+}
+
+#countdown {
+  line-height: 110px;
+  font-size: 50px;
+}
+
+#theChosen {
+  padding-top: 20px;
+  font-size: 40px;
+}
