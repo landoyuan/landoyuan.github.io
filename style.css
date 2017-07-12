@@ -74,6 +74,7 @@ input[type=submit] {
   margin-bottom: 40px;
   font-family: Arvo;
   color: white;
+  cursor:pointer;
 }
 
 .clock {
