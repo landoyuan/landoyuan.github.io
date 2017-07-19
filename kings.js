@@ -114,7 +114,7 @@ $(document).ready(function(){
     if(card===11){
       $('#card').html('JACK &#x2663');
       $('#rule').text('Never ever');
-      $('#explanation').text('Everyone raises 3 fingers. Play never have I ever..');
+      $('#explanation').text('Everyone raises 3 fingers. Play never have I ever.');
       $('#card').css('color','#a59c8b');
       $('#rule').css('color','#a59c8b');
       $('#explanation').css('color','#a59c8b');
@@ -249,7 +249,7 @@ $(document).ready(function(){
     if(card===24){
       $('#card').html('JACK &#x2666');
       $('#rule').text('Never ever');
-      $('#explanation').text('Everyone raises 3 fingers. Play never have I ever..');
+      $('#explanation').text('Everyone raises 3 fingers. Play never have I ever.');
       $('#card').css('color','#a59c8b');
       $('#rule').css('color','#a59c8b');
       $('#explanation').css('color','#a59c8b');
@@ -383,7 +383,7 @@ $(document).ready(function(){
     if(card===37){
       $('#card').html('JACK &#x2665');
       $('#rule').text('Never ever');
-      $('#explanation').text('Everyone raises 3 fingers. Play never have I ever..');
+      $('#explanation').text('Everyone raises 3 fingers. Play never have I ever.');
       $('#card').css('color','#a59c8b');
       $('#rule').css('color','#a59c8b');
       $('#explanation').css('color','#a59c8b');
@@ -518,7 +518,7 @@ $(document).ready(function(){
     if(card===50){
       $('#card').html('JACK &#x2660');
       $('#rule').text('Never ever');
-      $('#explanation').text('Everyone raises 3 fingers. Play never have I ever..');
+      $('#explanation').text('Everyone raises 3 fingers. Play never have I ever.');
       $('#card').css('color','#a59c8b');
       $('#rule').css('color','#a59c8b');
       $('#explanation').css('color','#a59c8b');
