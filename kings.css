@@ -33,7 +33,7 @@ button {
   font-size: 18px;
 }
 #rule {
-  font-size: 40px;
+  font-size: 30px;
   padding-top: 100px;
 }
 #explanation {
@@ -42,4 +42,10 @@ button {
 #card {
   font-size: 30px;
   padding-top:30px;
+}
+.remaining {
+  color: white;
+}
+.kingsleft {
+  color:white;
 }
