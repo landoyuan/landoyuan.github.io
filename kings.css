@@ -50,3 +50,11 @@ button {
 .kingsleft {
   color:white;
 }
+
+#footer {
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-size: 15px;
+}
