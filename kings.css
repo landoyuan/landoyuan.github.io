@@ -1,6 +1,7 @@
 body {
   background-color: grey;
   font-family: 'Archivo Black';
+  width: 500px;
 }
 
 .card {
