@@ -15,9 +15,9 @@ $(document).ready(function(){
       $('#card').html('ACE &#x2663');
       $('#rule').text('Waterfall');
       $('#explanation').text('Everyone drinks in sequence.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -25,9 +25,9 @@ $(document).ready(function(){
       $('#card').html('2 &#x2663');
       $('#rule').text('You');
       $('#explanation').text('Pick someone to drink.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -35,9 +35,9 @@ $(document).ready(function(){
       $('#card').html('3 &#x2663');
       $('#rule').text('Me');
       $('#explanation').text('You drink.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -45,9 +45,9 @@ $(document).ready(function(){
       $('#card').html('4 &#x2663');
       $('#rule').text('Whores');
       $('#explanation').text('Ladies drink.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -55,9 +55,9 @@ $(document).ready(function(){
       $('#card').html('5 &#x2663');
       $('#rule').text('Bust a jive');
       $('#explanation').text('Bust a dance move. Next person copies + adds a move.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -65,9 +65,9 @@ $(document).ready(function(){
       $('#card').html('6 &#x2663');
       $('#rule').text('Dicks');
       $('#explanation').text('Gents drink.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -75,9 +75,9 @@ $(document).ready(function(){
       $('#card').html('7 &#x2663');
       $('#rule').text('Heaven');
       $('#explanation').text('Touch the sky. Last one to raise hand, drinks.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -85,9 +85,9 @@ $(document).ready(function(){
       $('#card').html('8 &#x2663');
       $('#rule').text('Pick a mate');
       $('#explanation').text('Pick someone. They drink everytime you drink.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -95,9 +95,9 @@ $(document).ready(function(){
       $('#card').html('9 &#x2663');
       $('#rule').text('Bust a rhyme');
       $('#explanation').text('Pick a word. Everyone takes turns rhyming that word.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -105,9 +105,9 @@ $(document).ready(function(){
       $('#card').html('10 &#x2663');
       $('#rule').text('Categories');
       $('#explanation').text('Pick a category. Say something in that category.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -115,9 +115,9 @@ $(document).ready(function(){
       $('#card').html('JACK &#x2663');
       $('#rule').text('Never ever');
       $('#explanation').text('Everyone raises 3 fingers. Play Never ever.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -125,9 +125,9 @@ $(document).ready(function(){
       $('#card').html('QUEEN &#x2663');
       $('#rule').text('Question');
       $('#explanation').text('Only speak in questions for the turn.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -135,9 +135,9 @@ $(document).ready(function(){
       $('#card').html('KINGS &#x2663');
       $('#rule').text('Kings Cup');
       $('#explanation').text('Make up a rule. Pour some drink into center cup.');
-      $('#card').css('color','#c5bbaf');
-      $('#rule').css('color','#c5bbaf');
-      $('#explanation').css('color','#c5bbaf');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
       kings--;
@@ -150,9 +150,9 @@ $(document).ready(function(){
       $('#card').html('ACE &#x2666');
       $('#rule').text('Waterfall');
       $('#explanation').text('Everyone drinks in sequence.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -160,9 +160,9 @@ $(document).ready(function(){
       $('#card').html('2 &#x2666');
       $('#rule').text('You');
       $('#explanation').text('Pick someone to drink.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -170,9 +170,9 @@ $(document).ready(function(){
       $('#card').html('3 &#x2666');
       $('#rule').text('Me');
       $('#explanation').text('You drink.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -180,9 +180,9 @@ $(document).ready(function(){
       $('#card').html('4 &#x2666');
       $('#rule').text('Whores');
       $('#explanation').text('Ladies drink.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -190,9 +190,9 @@ $(document).ready(function(){
       $('#card').html('5 &#x2666');
       $('#rule').text('Bust a jive');
       $('#explanation').text('Bust a dance move. Next person copies + adds a move.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -200,9 +200,9 @@ $(document).ready(function(){
       $('#card').html('6 &#x2666');
       $('#rule').text('Dicks');
       $('#explanation').text('Gents drink.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -210,9 +210,9 @@ $(document).ready(function(){
       $('#card').html('7 &#x2666');
       $('#rule').text('Heaven');
       $('#explanation').text('Touch the sky. Last one to raise hand, drinks.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -220,9 +220,9 @@ $(document).ready(function(){
       $('#card').html('8 &#x2666');
       $('#rule').text('Pick a mate');
       $('#explanation').text('Pick someone. They drink everytime you drink.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -230,9 +230,9 @@ $(document).ready(function(){
       $('#card').html('9 &#x2666');
       $('#rule').text('Bust a rhyme');
       $('#explanation').text('Pick a word. Everyone takes turns rhyming that word.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -240,9 +240,9 @@ $(document).ready(function(){
       $('#card').html('10 &#x2666');
       $('#rule').text('Categories');
       $('#explanation').text('Pick a category. Say something in that category.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -250,9 +250,9 @@ $(document).ready(function(){
       $('#card').html('JACK &#x2666');
       $('#rule').text('Never ever');
       $('#explanation').text('Everyone raises 3 fingers. Play Never ever.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -260,9 +260,9 @@ $(document).ready(function(){
       $('#card').html('QUEEN &#x2666');
       $('#rule').text('Question');
       $('#explanation').text('Only speak in questions for the turn.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -270,9 +270,9 @@ $(document).ready(function(){
       $('#card').html('KINGS &#x2666');
       $('#rule').text('Kings Cup');
       $('#explanation').text('Make up a rule. Pour some drink into center cup.');
-      $('#card').css('color','#c9ba93');
-      $('#rule').css('color','#c9ba93');
-      $('#explanation').css('color','#c9ba93');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
       kings--;
@@ -419,9 +419,9 @@ $(document).ready(function(){
       $('#card').html('ACE &#x2660');
       $('#rule').text('Waterfall');
       $('#explanation').text('Everyone drinks in sequence.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -429,9 +429,9 @@ $(document).ready(function(){
       $('#card').html('2 &#x2660');
       $('#rule').text('You');
       $('#explanation').text('Pick someone to drink.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -439,9 +439,9 @@ $(document).ready(function(){
       $('#card').html('3 &#x2660');
       $('#rule').text('Me');
       $('#explanation').text('You drink.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -449,9 +449,9 @@ $(document).ready(function(){
       $('#card').html('4 &#x2660');
       $('#rule').text('Whores');
       $('#explanation').text('Ladies drink.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -459,9 +459,9 @@ $(document).ready(function(){
       $('#card').html('5 &#x2660');
       $('#rule').text('Bust a jive');
       $('#explanation').text('Bust a dance move. Next person copies + adds a move.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -469,9 +469,9 @@ $(document).ready(function(){
       $('#card').html('6 &#x2660');
       $('#rule').text('Dicks');
       $('#explanation').text('Gents drink.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -479,9 +479,9 @@ $(document).ready(function(){
       $('#card').html('7 &#x2660');
       $('#rule').text('Heaven');
       $('#explanation').text('Touch the sky. Last one to raise hand, drinks.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -489,9 +489,9 @@ $(document).ready(function(){
       $('#card').html('8 &#x2660');
       $('#rule').text('Pick a mate');
       $('#explanation').text('Pick someone. They drink everytime you drink.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -499,9 +499,9 @@ $(document).ready(function(){
       $('#card').html('9 &#x2660');
       $('#rule').text('Bust a rhyme');
       $('#explanation').text('Pick a word. Everyone takes turns rhyming that word.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -509,9 +509,9 @@ $(document).ready(function(){
       $('#card').html('10 &#x2660');
       $('#rule').text('Categories');
       $('#explanation').text('Pick a category. Say something in that category.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -519,9 +519,9 @@ $(document).ready(function(){
       $('#card').html('JACK &#x2660');
       $('#rule').text('Never ever');
       $('#explanation').text('Everyone raises 3 fingers. Play Never ever.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -529,9 +529,9 @@ $(document).ready(function(){
       $('#card').html('QUEEN &#x2660');
       $('#rule').text('Question');
       $('#explanation').text('Only speak in questions for the turn.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
     }
@@ -539,9 +539,9 @@ $(document).ready(function(){
       $('#card').html('KINGS &#x2660');
       $('#rule').text('Kings Cup');
       $('#explanation').text('Make up a rule. Pour some drink into center cup.');
-      $('#card').css('color','#a9aec2');
-      $('#rule').css('color','#a9aec2');
-      $('#explanation').css('color','#a9aec2');
+      $('#card').css('color','#a59c8b');
+      $('#rule').css('color','#a59c8b');
+      $('#explanation').css('color','#a59c8b');
       array1.splice(array1.indexOf(card),1);
       $('.remaining').text(array1.length);
       kings--;
