@@ -32,30 +32,21 @@ button {
   border: 1px solid white;
   font-size: 18px;
 }
-
 #rule {
   font-size: 30px;
-  padding-top: 50px;
+  padding-top: 60px;
 }
-
 #explanation {
-  padding: 20px 20px 0px 20px;
+  padding: 60px 20px 0px 20px;
   font-size:15px;
 }
-
 #card {
   font-size: 20px;
   padding-top:10px;
 }
-
 .remaining {
   color: white;
 }
-
 .kingsleft {
   color:white;
-}
-
-[class*="container"] {
-    width: 100%;
 }
