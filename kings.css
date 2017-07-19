@@ -6,8 +6,8 @@ body {
 .card {
   margin: 0 auto;
   background-color: white;
-  width: 250px;
-  height: 350px;
+  width: 350px;
+  height: 450px;
   text-align: center;
   font-size: 20px;
   color: grey;
@@ -33,15 +33,15 @@ button {
   font-size: 18px;
 }
 #rule {
-  font-size: 30px;
-  padding-top: 60px;
+  font-size: 40px;
+  padding-top: 90px;
 }
 #explanation {
-  padding: 60px 20px 0px 20px;
-  font-size:15px;
+  padding: 70px 20px 0px 20px;
+  font-size:20px;
 }
 #card {
-  font-size: 20px;
+  font-size: 30px;
   padding-top:10px;
 }
 .remaining {
